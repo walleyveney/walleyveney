@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walleyveney.
-- 👀 I’m interested in bitcoin
+- 👀 I’m interested in bitcoin (BTC)
 - 🌱 I’m currently learning how to use github
 - 📫 How to reach me: https://twitter.com/VeneyWall
 
